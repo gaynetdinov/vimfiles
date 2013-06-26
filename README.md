@@ -1,6 +1,6 @@
-This is a my ~/.vim dir.
-Generally it's just fork of awesome scrooloose vimfiles with
-some addition of Steve Losh's .vimrc.
+This is my ~/.vim dir.
+Generally it's just a fork of awesome scrooloose vimfiles
+with some addition of Steve Losh's .vimrc.
 
 Below you can find original README of scrooloose's vimfiles.
 
