@@ -2,8 +2,10 @@ This is a my ~/.vim dir.
 Generally it's just fork of awesome scrooloose vimfiles with
 some addition of Steve Losh's .vimrc.
 
+Below you can find original README of scrooloose's vimfiles.
 
-Below you can find original README of scrooloose's vimfiles:
+Original README
+===============
 
 This is my ~/.vim dir and _this_, dear reader, is a horse:
 
