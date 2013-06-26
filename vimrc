@@ -23,7 +23,8 @@ set number      "show line numbers
 set list
 "set listchars=tab:▷⋅,trail:⋅,nbsp:⋅
 "set listchars=trail:⋅,nbsp:⋅
-set listchars=tab:▸\ ,eol:¬,extends:❯,precedes:❮
+"set listchars=tab:▸\ ,eol:¬,extends:❯,precedes:❮
+set listchars=tab:▸\ ,trail:¬,nbsp:¬,extends:❯,precedes:❮
 
 set incsearch   "find the next match as we type the search
 set hlsearch    "hilight searches by default
