@@ -1,7 +1,7 @@
 let mapleader = ","
 
 " To disable a plugin, add it's bundle name to the following list
-let g:pathogen_disabled = ['YouCompleteMe']
+let g:pathogen_disabled = ['YouCompleteMe', 'ultisnips']
 "Use Vim settings, rather then Vi settings (much better!).
 "This must be first, because it changes other options as a side effect.
 set nocompatible
@@ -501,10 +501,10 @@ hi def InterestingWord6 guifg=#000000 ctermfg=16 guibg=#ff2c4b ctermbg=195
 " }}}
 
 "autocomplete ruby
-autocmd FileType ruby,eruby set omnifunc=rubycomplete#Complete
-autocmd FileType ruby,eruby let g:rubycomplete_buffer_loading = 1
-autocmd FileType ruby,eruby let g:rubycomplete_rails = 1
-autocmd FileType ruby,eruby let g:rubycomplete_classes_in_global = 1
+" autocmd FileType ruby,eruby set omnifunc=rubycomplete#Complete
+" autocmd FileType ruby,eruby let g:rubycomplete_buffer_loading = 1
+" autocmd FileType ruby,eruby let g:rubycomplete_rails = 1
+" autocmd FileType ruby,eruby let g:rubycomplete_classes_in_global = 1
 
 "improve autocomplete menu color
 highlight Pmenu ctermbg=238 gui=bold
