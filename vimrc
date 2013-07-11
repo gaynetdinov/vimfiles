@@ -416,7 +416,7 @@ set smartcase
 set incsearch
 set showmatch
 set hlsearch
-set gdefault
+set nogdefault
 
 set scrolloff=3
 set sidescroll=1
