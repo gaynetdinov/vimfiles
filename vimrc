@@ -318,8 +318,9 @@ autocmd BufReadPost fugitive://*
 " Copied from ~/.vimrc, so I can leave only one
 " line in ~/.vimrc file: source ~/.vim/vimrc
 
-"colorscheme railscasts
-colorscheme railscasts
+"colorscheme mayansmoke
+set background=light
+colorscheme solarized
 
 inoremap jj <ESC><ESC>
 
