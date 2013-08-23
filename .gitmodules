@@ -88,3 +88,9 @@
 [submodule "bundle/supertab"]
 	path = bundle/supertab
 	url = https://github.com/ervandew/supertab
+[submodule "bundle/vim-tmux-navigator"]
+	path = bundle/vim-tmux-navigator
+	url = https://github.com/christoomey/vim-tmux-navigator
+[submodule "bundle/slim-template"]
+	path = bundle/slim-template
+	url = https://github.com/slim-template/vim-slim
